@@ -2,5 +2,5 @@
     transform: scale(1.5);
 }
 .hover img{
-    transition: transform 1s;
+    transition: all 1s ease;
 }
